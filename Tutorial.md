@@ -184,33 +184,6 @@ This is a very simple example where we are going to run a learning switch contro
   ```
   sudo ovs-ofctl del-flows br0
   ```
-  
-#### 3.3.4. NFV OVS controller
-Next we are going to run a different Ryu controller that will install OpenFlow rules to support NFV load balancing as well as handling intrusion. With this controller, the traffic shall go from a source to destination, and duplicate packets are sent to one of the IDS nodes (VNF1, VNF2, VNF3 or VNF4) for intrusion detection.
-
-1. First we need to download the source code and configuration files for the NFV Ryu controller onto the controller VM. In the window of controller, run the following:
-
-```
-wget https://github.com/akhtarnabeel/ELSEC/raw/master/RyuController/setup_nfv_ryu_controller.sh
-chmod 755 setup_nfv_ryu_controller.sh
-./setup_nfv_ryu_controller.sh
-```
-
-2. Now you should have all files needed for the NFV Ryu controller. Open nfv.config file to configure the system parameters. You can use any editor to edit the file, and we use nano here as an example.
-
-```
-nano /tmp/ryu/ryu/app/nfv_4VNF.config
-```
-
-3. You will see the details of this configuration file as follows. 
-  - Change the values of *vnf1_interface*, *vnf2_interface*, *vnf3_interface* and *vnf4_interface* to the values that you noted down in **Section 3.3.1** in the **Design** section of this tutorial (Values of W, X, Y and Z shown in the figure below). These values will tell the controller which interfaces are connected to VNF1, VNF2, VNF3 and VNF4.  
-  - Change the value of **file_path_pi** to the text file that has the PI or PID controller's output.  
-  */users/\<username\>/Control/PI_controller/NFV_ratio_4VNF.txt*  
-  Change the **\<username\>** to your user name.  
-
-<img src="https://github.com/akhtarnabeel/ELSEC/raw/master/Figures/RyuConfig.png"  height="300"/>
-
-
 
 ![Alt text](http://groups.geni.net/geni/attachment/wiki/GENIExperimenter/Tutorials/Graphics/execute.png?format=raw "EXECUTE")
 ## Part II: EXECUTE
