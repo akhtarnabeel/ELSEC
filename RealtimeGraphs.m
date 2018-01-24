@@ -2,7 +2,7 @@ clear all
 clc
 
 % controller name
-node_name = 'nabeel@pcvm2-15.instageni.gpolab.bbn.com';
+controllerNode = 'nabeel@pcvm2-15.instageni.gpolab.bbn.com';
 
 % save figures and values
 saveFigures = true;
@@ -15,7 +15,7 @@ path = strtrim(path);
 % remove local text files
 system('rm *.txt');
 
-commandToFile = strcat('scp',{' '},node_name,':',path,'/NFV* .');
+commandToFile = strcat('scp',{' '},controllerNode,':',path,'/NFV* .');
 commandToFile = commandToFile{1};
 
 fileNameNFV1 = 'NFV1.txt';
