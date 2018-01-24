@@ -1,5 +1,5 @@
 cd ~
-wget https://github.com/akhtarnabeel/public/raw/master/NFV-GENI/RyuController/nfv_controller.py
-wget https://github.com/akhtarnabeel/public/raw/master/NFV-GENI/RyuController/nfv.config
-mv nfv_controller.py /tmp/ryu/ryu/app/
-mv nfv.config /tmp/ryu/ryu/app/
+wget https://github.com/akhtarnabeel/ELSEC/raw/master/RyuController/nfv_4VNF.config
+wget https://github.com/akhtarnabeel/ELSEC/raw/master/RyuController/nfv_controller_4VNF.py
+mv nfv_* /tmp/ryu/ryu/app/
+

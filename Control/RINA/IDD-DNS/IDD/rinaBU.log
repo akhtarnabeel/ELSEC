@@ -6,4 +6,372 @@
  1    main       INFO  2017-06-06 19:07:59800 rina.config.RINAConfig   IDD local port is: 58881
  2    main       INFO  2017-06-06 19:07:59801 rina.config.RINAConfig   IDD name is: localhost
  2    Thread-0   INFO  2017-06-06 19:07:59801 rina.idd.IDDProcess   IDD Process started.
+ 0    main       INFO  2017-12-18 20:47:22303 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 8    main       INFO  2017-12-18 20:47:22311 rina.config.RINAConfig   IDD local port is: 58881
+ 10   main       INFO  2017-12-18 20:47:22313 rina.config.RINAConfig   IDD name is: localhost
+ 14   Thread-0   INFO  2017-12-18 20:47:22317 rina.idd.IDDProcess   IDD Process started.
+ 462  Thread-0   INFO  2017-12-18 20:47:22765 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43142
+ 11534 Thread-0   INFO  2017-12-18 20:47:33837 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60160
+ 13710 Thread-0   INFO  2017-12-18 20:47:3613 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54286
+ 16615 Thread-0   INFO  2017-12-18 20:47:38918 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54386
+ 19394 Thread-0   INFO  2017-12-18 20:47:41697 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54288
+ 87826 Thread-1   INFO  2017-12-18 20:48:50129 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 89746 Thread-2   INFO  2017-12-18 20:48:5249 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 91804 Thread-3   INFO  2017-12-18 20:48:54107 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 92491 Thread-4   INFO  2017-12-18 20:48:54794 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 94732 Thread-5   INFO  2017-12-18 20:48:5735 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-18 20:49:21511 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 2    main       INFO  2017-12-18 20:49:21513 rina.config.RINAConfig   IDD local port is: 58881
+ 3    main       INFO  2017-12-18 20:49:21514 rina.config.RINAConfig   IDD name is: localhost
+ 3    Thread-0   INFO  2017-12-18 20:49:21514 rina.idd.IDDProcess   IDD Process started.
+ 2739 Thread-0   INFO  2017-12-18 20:49:24250 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43146
+ 11226 Thread-0   INFO  2017-12-18 20:49:32737 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60163
+ 13328 Thread-0   INFO  2017-12-18 20:49:34839 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54289
+ 15309 Thread-0   INFO  2017-12-18 20:49:36820 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54389
+ 17415 Thread-0   INFO  2017-12-18 20:49:38926 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54291
+ 7113931 Thread-3   INFO  2017-12-18 22:47:55442 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 7115306 Thread-2   INFO  2017-12-18 22:47:56817 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-19 15:51:24797 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 7    main       INFO  2017-12-19 15:51:24804 rina.config.RINAConfig   IDD local port is: 58881
+ 9    main       INFO  2017-12-19 15:51:24806 rina.config.RINAConfig   IDD name is: localhost
+ 10   Thread-0   INFO  2017-12-19 15:51:24807 rina.idd.IDDProcess   IDD Process started.
+ 2807 Thread-0   INFO  2017-12-19 15:51:27604 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43188
+ 10263 Thread-0   INFO  2017-12-19 15:51:3560 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60185
+ 11381 Thread-0   INFO  2017-12-19 15:51:36178 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54311
+ 12713 Thread-0   INFO  2017-12-19 15:51:37510 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54411
+ 14917 Thread-0   INFO  2017-12-19 15:51:39714 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54313
+ 2496297 Thread-2   INFO  2017-12-19 16:33:0194 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 2497138 Thread-3   INFO  2017-12-19 16:33:01935 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 2497938 Thread-4   INFO  2017-12-19 16:33:02735 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 2498664 Thread-5   INFO  2017-12-19 16:33:03461 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 2512697 Thread-1   INFO  2017-12-19 16:33:17494 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-19 16:33:37276 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 6    main       INFO  2017-12-19 16:33:37282 rina.config.RINAConfig   IDD local port is: 58881
+ 6    main       INFO  2017-12-19 16:33:37282 rina.config.RINAConfig   IDD name is: localhost
+ 7    Thread-0   INFO  2017-12-19 16:33:37283 rina.idd.IDDProcess   IDD Process started.
+ 2677 Thread-0   INFO  2017-12-19 16:33:39953 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43194
+ 7115 Thread-0   INFO  2017-12-19 16:33:44391 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60189
+ 10545 Thread-0   INFO  2017-12-19 16:33:47821 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54415
+ 10837 Thread-0   INFO  2017-12-19 16:33:48113 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54315
+ 12256 Thread-0   INFO  2017-12-19 16:33:49532 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54317
+ 96705 Thread-1   INFO  2017-12-19 16:35:13981 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 99538 Thread-2   INFO  2017-12-19 16:35:16814 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 101864 Thread-4   INFO  2017-12-19 16:35:19140 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 102661 Thread-3   INFO  2017-12-19 16:35:19937 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 103473 Thread-5   INFO  2017-12-19 16:35:20749 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-19 16:35:25614 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 2    main       INFO  2017-12-19 16:35:25616 rina.config.RINAConfig   IDD local port is: 58881
+ 3    main       INFO  2017-12-19 16:35:25617 rina.config.RINAConfig   IDD name is: localhost
+ 3    Thread-0   INFO  2017-12-19 16:35:25617 rina.idd.IDDProcess   IDD Process started.
+ 2729 Thread-0   INFO  2017-12-19 16:35:28343 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43198
+ 7500 Thread-0   INFO  2017-12-19 16:35:33114 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60192
+ 10724 Thread-0   INFO  2017-12-19 16:35:36338 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54418
+ 11001 Thread-0   INFO  2017-12-19 16:35:36615 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54318
+ 12218 Thread-0   INFO  2017-12-19 16:35:37832 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54320
+ 0    main       INFO  2017-12-20 09:43:06862 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 2    main       INFO  2017-12-20 09:43:06864 rina.config.RINAConfig   IDD local port is: 58881
+ 2    main       INFO  2017-12-20 09:43:06864 rina.config.RINAConfig   IDD name is: localhost
+ 3    Thread-0   INFO  2017-12-20 09:43:06865 rina.idd.IDDProcess   IDD Process started.
+ 2717 Thread-0   INFO  2017-12-20 09:43:09579 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43238
+ 9831 Thread-0   INFO  2017-12-20 09:43:16693 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60214
+ 10892 Thread-0   INFO  2017-12-20 09:43:17754 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54338
+ 12432 Thread-0   INFO  2017-12-20 09:43:19294 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54438
+ 14202 Thread-0   INFO  2017-12-20 09:43:2164 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54340
+ 215455 Thread-1   INFO  2017-12-20 09:46:42317 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 219680 Thread-3   INFO  2017-12-20 09:46:46542 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 220422 Thread-4   INFO  2017-12-20 09:46:47284 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 221424 Thread-5   INFO  2017-12-20 09:46:48286 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-20 09:46:58975 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 5    main       INFO  2017-12-20 09:46:58980 rina.config.RINAConfig   IDD local port is: 58881
+ 6    main       INFO  2017-12-20 09:46:58981 rina.config.RINAConfig   IDD name is: localhost
+ 6    Thread-0   INFO  2017-12-20 09:46:58981 rina.idd.IDDProcess   IDD Process started.
+ 2801 Thread-0   INFO  2017-12-20 09:47:01776 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43242
+ 11727 Thread-0   INFO  2017-12-20 09:47:10702 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60217
+ 11736 Thread-2   INFO  2017-12-20 09:47:10711 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 14375 Thread-0   INFO  2017-12-20 09:47:13350 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54341
+ 28142 Thread-3   INFO  2017-12-20 09:47:27117 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 32100 Thread-1   INFO  2017-12-20 09:47:3175 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-20 09:47:35127 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 4    main       INFO  2017-12-20 09:47:35131 rina.config.RINAConfig   IDD local port is: 58881
+ 5    main       INFO  2017-12-20 09:47:35132 rina.config.RINAConfig   IDD name is: localhost
+ 6    Thread-0   INFO  2017-12-20 09:47:35133 rina.idd.IDDProcess   IDD Process started.
+ 2785 Thread-0   INFO  2017-12-20 09:47:37912 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43246
+ 14036 Thread-0   INFO  2017-12-20 09:47:49163 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60219
+ 18990 Thread-0   INFO  2017-12-20 09:47:54117 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54344
+ 22729 Thread-0   INFO  2017-12-20 09:47:57856 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54441
+ 25742 Thread-0   INFO  2017-12-20 09:48:00869 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54343
+ 71906 Thread-1   INFO  2017-12-20 09:48:4733 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 75337 Thread-2   INFO  2017-12-20 09:48:50464 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 76776 Thread-3   INFO  2017-12-20 09:48:51903 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 77968 Thread-4   INFO  2017-12-20 09:48:5395 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 79131 Thread-5   INFO  2017-12-20 09:48:54258 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-20 09:48:59675 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 3    main       INFO  2017-12-20 09:48:59678 rina.config.RINAConfig   IDD local port is: 58881
+ 3    main       INFO  2017-12-20 09:48:59678 rina.config.RINAConfig   IDD name is: localhost
+ 4    Thread-0   INFO  2017-12-20 09:48:59679 rina.idd.IDDProcess   IDD Process started.
+ 2732 Thread-0   INFO  2017-12-20 09:49:02407 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43250
+ 16753 Thread-0   INFO  2017-12-20 09:49:16428 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60222
+ 29699 Thread-0   INFO  2017-12-20 09:49:29374 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54347
+ 42025 Thread-0   INFO  2017-12-20 09:49:41700 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54444
+ 53533 Thread-0   INFO  2017-12-20 09:49:53208 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54346
+ 0    main       INFO  2017-12-21 09:24:58359 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 8    main       INFO  2017-12-21 09:24:58367 rina.config.RINAConfig   IDD local port is: 58881
+ 8    main       INFO  2017-12-21 09:24:58367 rina.config.RINAConfig   IDD name is: localhost
+ 9    Thread-0   INFO  2017-12-21 09:24:58368 rina.idd.IDDProcess   IDD Process started.
+ 2554 Thread-0   INFO  2017-12-21 09:25:00913 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43304
+ 22923 Thread-0   INFO  2017-12-21 09:25:21282 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60249
+ 24380 Thread-0   INFO  2017-12-21 09:25:22739 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54374
+ 32924 Thread-0   INFO  2017-12-21 09:25:31283 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54471
+ 39576 Thread-0   INFO  2017-12-21 09:25:37935 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54373
+ 0    main       INFO  2017-12-21 19:43:36305 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 9    main       INFO  2017-12-21 19:43:36314 rina.config.RINAConfig   IDD local port is: 58881
+ 9    main       INFO  2017-12-21 19:43:36314 rina.config.RINAConfig   IDD name is: localhost
+ 10   Thread-0   INFO  2017-12-21 19:43:36315 rina.idd.IDDProcess   IDD Process started.
+ 2851 Thread-0   INFO  2017-12-21 19:43:39156 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43328
+ 10730 Thread-0   INFO  2017-12-21 19:43:4735 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60262
+ 17433 Thread-0   INFO  2017-12-21 19:43:53738 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54387
+ 22321 Thread-0   INFO  2017-12-21 19:43:58626 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54484
+ 28706 Thread-0   INFO  2017-12-21 19:44:0511 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54386
+ 391689 Thread-1   INFO  2017-12-21 19:50:07994 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 407937 Thread-2   INFO  2017-12-21 19:50:24242 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 408653 Thread-3   INFO  2017-12-21 19:50:24958 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 409346 Thread-4   INFO  2017-12-21 19:50:25651 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 410095 Thread-5   INFO  2017-12-21 19:50:26400 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-21 19:51:11841 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 9    main       INFO  2017-12-21 19:51:11850 rina.config.RINAConfig   IDD local port is: 58881
+ 9    main       INFO  2017-12-21 19:51:11850 rina.config.RINAConfig   IDD name is: localhost
+ 10   Thread-0   INFO  2017-12-21 19:51:11851 rina.idd.IDDProcess   IDD Process started.
+ 2792 Thread-0   INFO  2017-12-21 19:51:14633 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43332
+ 9379 Thread-0   INFO  2017-12-21 19:51:21220 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60265
+ 14957 Thread-0   INFO  2017-12-21 19:51:26798 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54390
+ 20496 Thread-0   INFO  2017-12-21 19:51:32337 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54487
+ 27248 Thread-0   INFO  2017-12-21 19:51:3989 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54389
+ 0    main       INFO  2017-12-22 10:37:39812 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 2    main       INFO  2017-12-22 10:37:39814 rina.config.RINAConfig   IDD local port is: 58881
+ 3    main       INFO  2017-12-22 10:37:39815 rina.config.RINAConfig   IDD name is: localhost
+ 3    Thread-0   INFO  2017-12-22 10:37:39815 rina.idd.IDDProcess   IDD Process started.
+ 2682 Thread-0   INFO  2017-12-22 10:37:42494 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43368
+ 9164 Thread-0   INFO  2017-12-22 10:37:48976 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60283
+ 14399 Thread-0   INFO  2017-12-22 10:37:54211 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54408
+ 20144 Thread-0   INFO  2017-12-22 10:37:59956 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54505
+ 24637 Thread-0   INFO  2017-12-22 10:38:04449 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54407
+ 6187689 Thread-2   INFO  2017-12-22 12:20:47501 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 6419043 Thread-3   INFO  2017-12-22 12:24:38855 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 6421155 Thread-4   INFO  2017-12-22 12:24:40967 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 6422161 Thread-5   INFO  2017-12-22 12:24:41973 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 6428813 Thread-1   INFO  2017-12-22 12:24:48625 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-22 12:24:53356 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 11   main       INFO  2017-12-22 12:24:53367 rina.config.RINAConfig   IDD local port is: 58881
+ 18   main       INFO  2017-12-22 12:24:53374 rina.config.RINAConfig   IDD name is: localhost
+ 24   Thread-0   INFO  2017-12-22 12:24:53380 rina.idd.IDDProcess   IDD Process started.
+ 2525 Thread-0   INFO  2017-12-22 12:24:55881 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43378
+ 8014 Thread-0   INFO  2017-12-22 12:25:01370 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60289
+ 13321 Thread-0   INFO  2017-12-22 12:25:06677 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54414
+ 22132 Thread-0   INFO  2017-12-22 12:25:15488 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54511
+ 27585 Thread-0   INFO  2017-12-22 12:25:20941 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54413
+ 0    main       INFO  2017-12-22 12:36:21559 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 6    main       INFO  2017-12-22 12:36:21565 rina.config.RINAConfig   IDD local port is: 58881
+ 6    main       INFO  2017-12-22 12:36:21565 rina.config.RINAConfig   IDD name is: localhost
+ 7    Thread-0   INFO  2017-12-22 12:36:21566 rina.idd.IDDProcess   IDD Process started.
+ 2674 Thread-0   INFO  2017-12-22 12:36:24233 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43382
+ 10877 Thread-0   INFO  2017-12-22 12:36:32436 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60293
+ 18482 Thread-0   INFO  2017-12-22 12:36:4041 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54418
+ 25370 Thread-0   INFO  2017-12-22 12:36:46929 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54515
+ 31630 Thread-0   INFO  2017-12-22 12:36:53189 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54417
+ 164157927 Thread-3   INFO  2017-12-24 10:12:19486 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 164160128 Thread-4   INFO  2017-12-24 10:12:21687 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 164160559 Thread-2   INFO  2017-12-24 10:12:22118 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 164160943 Thread-5   INFO  2017-12-24 10:12:22502 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 164165602 Thread-1   INFO  2017-12-24 10:12:27161 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 10:12:34431 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 5    main       INFO  2017-12-24 10:12:34436 rina.config.RINAConfig   IDD local port is: 58881
+ 6    main       INFO  2017-12-24 10:12:34437 rina.config.RINAConfig   IDD name is: localhost
+ 6    Thread-0   INFO  2017-12-24 10:12:34437 rina.idd.IDDProcess   IDD Process started.
+ 2803 Thread-0   INFO  2017-12-24 10:12:37234 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43482
+ 12728 Thread-0   INFO  2017-12-24 10:12:47159 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60342
+ 18009 Thread-0   INFO  2017-12-24 10:12:52440 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54467
+ 26096 Thread-0   INFO  2017-12-24 10:13:00527 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54564
+ 32430 Thread-0   INFO  2017-12-24 10:13:06861 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54466
+ 5625469 Thread-2   INFO  2017-12-24 11:46:19900 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 5626337 Thread-3   INFO  2017-12-24 11:46:20768 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 5627064 Thread-4   INFO  2017-12-24 11:46:21495 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 5627977 Thread-5   INFO  2017-12-24 11:46:22408 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 5631891 Thread-1   INFO  2017-12-24 11:46:26322 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 1    main       INFO  2017-12-24 11:46:29160 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 9    main       INFO  2017-12-24 11:46:29168 rina.config.RINAConfig   IDD local port is: 58881
+ 9    main       INFO  2017-12-24 11:46:29168 rina.config.RINAConfig   IDD name is: localhost
+ 10   Thread-0   INFO  2017-12-24 11:46:29169 rina.idd.IDDProcess   IDD Process started.
+ 2678 Thread-0   INFO  2017-12-24 11:46:31837 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43488
+ 9510 Thread-1   INFO  2017-12-24 11:46:38669 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 11:52:5579 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 8    main       INFO  2017-12-24 11:52:5587 rina.config.RINAConfig   IDD local port is: 58881
+ 9    main       INFO  2017-12-24 11:52:5588 rina.config.RINAConfig   IDD name is: localhost
+ 9    Thread-0   INFO  2017-12-24 11:52:5588 rina.idd.IDDProcess   IDD Process started.
+ 2798 Thread-0   INFO  2017-12-24 11:52:57877 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43492
+ 9910 Thread-0   INFO  2017-12-24 11:53:04989 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60346
+ 15418 Thread-0   INFO  2017-12-24 11:53:10497 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54471
+ 21892 Thread-0   INFO  2017-12-24 11:53:16971 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54568
+ 28577 Thread-0   INFO  2017-12-24 11:53:23656 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54470
+ 157771 Thread-1   INFO  2017-12-24 11:55:32850 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 159950 Thread-2   INFO  2017-12-24 11:55:3529 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 160425 Thread-3   INFO  2017-12-24 11:55:35504 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 161117 Thread-4   INFO  2017-12-24 11:55:36196 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 161872 Thread-5   INFO  2017-12-24 11:55:36951 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 11:55:41344 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 3    main       INFO  2017-12-24 11:55:41347 rina.config.RINAConfig   IDD local port is: 58881
+ 3    main       INFO  2017-12-24 11:55:41347 rina.config.RINAConfig   IDD name is: localhost
+ 4    Thread-0   INFO  2017-12-24 11:55:41348 rina.idd.IDDProcess   IDD Process started.
+ 2845 Thread-0   INFO  2017-12-24 11:55:44189 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43496
+ 14359 Thread-0   INFO  2017-12-24 11:55:55703 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60349
+ 22649 Thread-0   INFO  2017-12-24 11:56:03993 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54474
+ 30618 Thread-0   INFO  2017-12-24 11:56:11962 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54571
+ 39204 Thread-0   INFO  2017-12-24 11:56:20548 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54473
+ 39951 Thread-2   INFO  2017-12-24 11:56:21295 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 85626 Thread-3   INFO  2017-12-24 11:57:06970 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 86516 Thread-4   INFO  2017-12-24 11:57:07860 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 87296 Thread-5   INFO  2017-12-24 11:57:08640 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 90222 Thread-1   INFO  2017-12-24 11:57:11566 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 12:11:28407 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 8    main       INFO  2017-12-24 12:11:28415 rina.config.RINAConfig   IDD local port is: 58881
+ 8    main       INFO  2017-12-24 12:11:28415 rina.config.RINAConfig   IDD name is: localhost
+ 9    Thread-0   INFO  2017-12-24 12:11:28416 rina.idd.IDDProcess   IDD Process started.
+ 2711 Thread-0   INFO  2017-12-24 12:11:31118 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43502
+ 16085 Thread-0   INFO  2017-12-24 12:11:44492 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60353
+ 25340 Thread-0   INFO  2017-12-24 12:11:53747 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54478
+ 34403 Thread-0   INFO  2017-12-24 12:12:02810 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54575
+ 53013 Thread-0   INFO  2017-12-24 12:12:21420 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54477
+ 151408 Thread-3   INFO  2017-12-24 12:13:59815 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 152020 Thread-4   INFO  2017-12-24 12:14:00427 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 152747 Thread-5   INFO  2017-12-24 12:14:01154 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 153285 Thread-2   INFO  2017-12-24 12:14:01692 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 1179775 Thread-1   INFO  2017-12-24 12:31:08182 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 15:37:51161 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 6    main       INFO  2017-12-24 15:37:51167 rina.config.RINAConfig   IDD local port is: 58881
+ 6    main       INFO  2017-12-24 15:37:51167 rina.config.RINAConfig   IDD name is: localhost
+ 7    Thread-0   INFO  2017-12-24 15:37:51168 rina.idd.IDDProcess   IDD Process started.
+ 2799 Thread-0   INFO  2017-12-24 15:37:53960 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43514
+ 10072 Thread-0   INFO  2017-12-24 15:38:01233 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 60360
+ 15872 Thread-0   INFO  2017-12-24 15:38:0733 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54485
+ 23464 Thread-0   INFO  2017-12-24 15:38:14625 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54582
+ 30135 Thread-0   INFO  2017-12-24 15:38:21296 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54484
+ 390473 Thread-2   INFO  2017-12-24 15:44:21634 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 510428 Thread-3   INFO  2017-12-24 15:46:21589 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 511207 Thread-4   INFO  2017-12-24 15:46:22368 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 511982 Thread-5   INFO  2017-12-24 15:46:23143 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 515505 Thread-1   INFO  2017-12-24 15:46:26666 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 15:46:30576 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 7    main       INFO  2017-12-24 15:46:30583 rina.config.RINAConfig   IDD local port is: 58881
+ 7    main       INFO  2017-12-24 15:46:30583 rina.config.RINAConfig   IDD name is: localhost
+ 8    Thread-0   INFO  2017-12-24 15:46:30584 rina.idd.IDDProcess   IDD Process started.
+ 2801 Thread-0   INFO  2017-12-24 15:46:33377 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43518
+ 15989 Thread-0   INFO  2017-12-24 15:46:46565 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 46919
+ 23419 Thread-0   INFO  2017-12-24 15:46:53995 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54488
+ 33877 Thread-0   INFO  2017-12-24 15:47:04453 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54585
+ 48194 Thread-0   INFO  2017-12-24 15:47:18770 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54487
+ 5968173 Thread-1   INFO  2017-12-24 17:25:58749 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 5971111 Thread-2   INFO  2017-12-24 17:26:01687 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 5971785 Thread-3   INFO  2017-12-24 17:26:02361 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 5972530 Thread-4   INFO  2017-12-24 17:26:03106 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 5973251 Thread-5   INFO  2017-12-24 17:26:03827 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 17:26:1136 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 8    main       INFO  2017-12-24 17:26:1144 rina.config.RINAConfig   IDD local port is: 58881
+ 8    main       INFO  2017-12-24 17:26:1144 rina.config.RINAConfig   IDD name is: localhost
+ 9    Thread-0   INFO  2017-12-24 17:26:1145 rina.idd.IDDProcess   IDD Process started.
+ 2845 Thread-0   INFO  2017-12-24 17:26:13881 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43526
+ 3658 Thread-1   INFO  2017-12-24 17:26:14694 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 17:27:3120 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 11   main       INFO  2017-12-24 17:27:3131 rina.config.RINAConfig   IDD local port is: 58881
+ 12   main       INFO  2017-12-24 17:27:3132 rina.config.RINAConfig   IDD name is: localhost
+ 13   Thread-0   INFO  2017-12-24 17:27:3133 rina.idd.IDDProcess   IDD Process started.
+ 2630 Thread-0   INFO  2017-12-24 17:27:33650 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43530
+ 3977 Thread-1   INFO  2017-12-24 17:27:34997 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 17:27:4942 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 8    main       INFO  2017-12-24 17:27:4950 rina.config.RINAConfig   IDD local port is: 58881
+ 9    main       INFO  2017-12-24 17:27:4951 rina.config.RINAConfig   IDD name is: localhost
+ 9    Thread-0   INFO  2017-12-24 17:27:4951 rina.idd.IDDProcess   IDD Process started.
+ 2691 Thread-0   INFO  2017-12-24 17:27:51733 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43534
+ 846644 Thread-1   INFO  2017-12-24 17:41:55686 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 17:41:58123 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 3    main       INFO  2017-12-24 17:41:58126 rina.config.RINAConfig   IDD local port is: 58881
+ 3    main       INFO  2017-12-24 17:41:58126 rina.config.RINAConfig   IDD name is: localhost
+ 4    Thread-0   INFO  2017-12-24 17:41:58127 rina.idd.IDDProcess   IDD Process started.
+ 2849 Thread-0   INFO  2017-12-24 17:42:00972 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43538
+ 10451 Thread-0   INFO  2017-12-24 17:42:08574 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 46923
+ 13335 Thread-0   INFO  2017-12-24 17:42:11458 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54493
+ 18485 Thread-0   INFO  2017-12-24 17:42:16608 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54590
+ 27174 Thread-0   INFO  2017-12-24 17:42:25297 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54492
+ 11927733 Thread-2   INFO  2017-12-24 21:00:45856 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 11928450 Thread-3   INFO  2017-12-24 21:00:46573 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 11929127 Thread-4   INFO  2017-12-24 21:00:47250 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 11929856 Thread-5   INFO  2017-12-24 21:00:47979 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 11933304 Thread-1   INFO  2017-12-24 21:00:51427 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 21:00:54441 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 2    main       INFO  2017-12-24 21:00:54443 rina.config.RINAConfig   IDD local port is: 58881
+ 3    main       INFO  2017-12-24 21:00:54444 rina.config.RINAConfig   IDD name is: localhost
+ 4    Thread-0   INFO  2017-12-24 21:00:54445 rina.idd.IDDProcess   IDD Process started.
+ 2794 Thread-0   INFO  2017-12-24 21:00:57235 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43548
+ 10530 Thread-0   INFO  2017-12-24 21:01:04971 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 46930
+ 13618 Thread-0   INFO  2017-12-24 21:01:0859 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54499
+ 15877 Thread-0   INFO  2017-12-24 21:01:10318 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54596
+ 18293 Thread-0   INFO  2017-12-24 21:01:12734 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54498
+ 87960 Thread-1   INFO  2017-12-24 21:02:22401 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 91086 Thread-2   INFO  2017-12-24 21:02:25527 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 91858 Thread-3   INFO  2017-12-24 21:02:26299 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 92758 Thread-4   INFO  2017-12-24 21:02:27199 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 93612 Thread-5   INFO  2017-12-24 21:02:2853 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 21:02:36977 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 4    main       INFO  2017-12-24 21:02:36981 rina.config.RINAConfig   IDD local port is: 58881
+ 4    main       INFO  2017-12-24 21:02:36981 rina.config.RINAConfig   IDD name is: localhost
+ 5    Thread-0   INFO  2017-12-24 21:02:36982 rina.idd.IDDProcess   IDD Process started.
+ 2724 Thread-0   INFO  2017-12-24 21:02:39701 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43552
+ 6117 Thread-0   INFO  2017-12-24 21:02:4394 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 46933
+ 7683 Thread-0   INFO  2017-12-24 21:02:44660 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54502
+ 9266 Thread-0   INFO  2017-12-24 21:02:46243 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54599
+ 10841 Thread-0   INFO  2017-12-24 21:02:47818 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54501
+ 29611 Thread-2   INFO  2017-12-24 21:03:06588 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 30972 Thread-3   INFO  2017-12-24 21:03:07949 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 31771 Thread-4   INFO  2017-12-24 21:03:08748 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 32578 Thread-5   INFO  2017-12-24 21:03:09555 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 105114 Thread-1   INFO  2017-12-24 21:04:2291 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 21:04:24426 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 4    main       INFO  2017-12-24 21:04:24430 rina.config.RINAConfig   IDD local port is: 58881
+ 5    main       INFO  2017-12-24 21:04:24431 rina.config.RINAConfig   IDD name is: localhost
+ 5    Thread-0   INFO  2017-12-24 21:04:24431 rina.idd.IDDProcess   IDD Process started.
+ 2851 Thread-0   INFO  2017-12-24 21:04:27277 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43556
+ 14056 Thread-0   INFO  2017-12-24 21:04:38482 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 46936
+ 38433 Thread-2   INFO  2017-12-24 21:05:02859 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 60414 Thread-1   INFO  2017-12-24 21:05:24840 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-24 21:05:27117 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 3    main       INFO  2017-12-24 21:05:27120 rina.config.RINAConfig   IDD local port is: 58881
+ 3    main       INFO  2017-12-24 21:05:27120 rina.config.RINAConfig   IDD name is: localhost
+ 4    Thread-0   INFO  2017-12-24 21:05:27121 rina.idd.IDDProcess   IDD Process started.
+ 2783 Thread-0   INFO  2017-12-24 21:05:29900 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43562
+ 5306 Thread-0   INFO  2017-12-24 21:05:32423 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 46939
+ 90816 Thread-1   INFO  2017-12-24 21:06:57933 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 94549 Thread-2   INFO  2017-12-24 21:07:01666 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 1    main       INFO  2017-12-24 22:39:05794 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 9    main       INFO  2017-12-24 22:39:05802 rina.config.RINAConfig   IDD local port is: 58881
+ 9    main       INFO  2017-12-24 22:39:05802 rina.config.RINAConfig   IDD name is: localhost
+ 10   Thread-0   INFO  2017-12-24 22:39:05803 rina.idd.IDDProcess   IDD Process started.
+ 2732 Thread-0   INFO  2017-12-24 22:39:08525 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43568
+ 8455 Thread-0   INFO  2017-12-24 22:39:14248 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 46943
+ 194802 Thread-1   INFO  2017-12-24 22:42:20595 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 199431 Thread-2   INFO  2017-12-24 22:42:25224 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-25 10:41:09138 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 2    main       INFO  2017-12-25 10:41:09140 rina.config.RINAConfig   IDD local port is: 58881
+ 3    main       INFO  2017-12-25 10:41:09141 rina.config.RINAConfig   IDD name is: localhost
+ 3    Thread-0   INFO  2017-12-25 10:41:09141 rina.idd.IDDProcess   IDD Process started.
+ 2796 Thread-0   INFO  2017-12-25 10:41:11934 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43600
+ 11909 Thread-0   INFO  2017-12-25 10:41:2147 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 46958
+ 103161 Thread-1   INFO  2017-12-25 10:42:52299 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 105646 Thread-2   INFO  2017-12-25 10:42:54784 rina.idd.IDDHandler   IDD handler stopped due to exception.
+ 0    main       INFO  2017-12-25 10:43:00989 rina.config.RINAConfig   Configuration file: idd.properties loaded
+ 9    main       INFO  2017-12-25 10:43:00998 rina.config.RINAConfig   IDD local port is: 58881
+ 10   main       INFO  2017-12-25 10:43:00999 rina.config.RINAConfig   IDD name is: localhost
+ 10   Thread-0   INFO  2017-12-25 10:43:00999 rina.idd.IDDProcess   IDD Process started.
+ 2771 Thread-0   INFO  2017-12-25 10:43:03760 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.163 : 43604
+ 11592 Thread-0   INFO  2017-12-25 10:43:12581 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.158 : 46961
+ 18925 Thread-0   INFO  2017-12-25 10:43:19914 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.159 : 54519
+ 24728 Thread-0   INFO  2017-12-25 10:43:25717 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.160 : 54616
+ 31079 Thread-0   INFO  2017-12-25 10:43:3268 rina.idd.IDDProcess   IDD Process: new incoming flow from /192.1.242.161 : 54518
  
