@@ -18,3 +18,6 @@ As a use case, we deploy the Snort Intrusion Detection System as the NF on the G
 ## Source Code:
 [Source code](https://github.com/akhtarnabeel/ELSEC) of our GENI implementation is available on GitHub
 
+## Experiment Traces:
+[Link](https://github.com/akhtarnabeel/ELSEC/tree/master/ExperimentalTraces) to experiment traces.
+
