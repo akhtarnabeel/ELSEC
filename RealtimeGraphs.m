@@ -125,7 +125,7 @@ while (true)
     hold on
     title('CPU usage graph','FontSize',18)
     xlabel('Time','FontSize',16);
-    ylabel('CPU usuage','FontSize',16);
+    ylabel('CPU usage','FontSize',16);
     axis([0 counter+1 0 100]);
     box on
     
