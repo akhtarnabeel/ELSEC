@@ -12,7 +12,7 @@ As a use case, we deploy the Snort Intrusion Detection System as the NF on the G
 [Link](https://github.com/akhtarnabeel/ELSEC/blob/master/Tutorial.md) to EL-SEC Tutorial
 
 ## Video Demonstration:
-[Link](https://www.youtube.com/watch?v=lRvJ56z5XCM&feature=youtu.be) for PI controller based Elastic Management
+[Link](https://www.youtube.com/watch?v=lRvJ56z5XCM&feature=youtu.be) for PI controller based Elastic Management  
 [Link](https://www.youtube.com/watch?v=CAEoYa6CYIw) to webinar on Elastic Management using Control Theory
 
 ## Source Code:
