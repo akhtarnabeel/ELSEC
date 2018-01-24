@@ -38,14 +38,11 @@ def runNping(host, rate, time, datalength):
 
 if __name__=='__main__':
 
-    timeForFlow = 1500
-    rateOfFlow = 20 # for each s1 and s2
-    packetSize = 1400
-    timeToSleep = 29.3
+    timeForFlow = 150   # time (in seconds) to live for a flow
+    rateOfFlow = 20     # number of packets per second sent in a flow
+    packetSize = 1400   # size of each packet for a flow
+    timeToSleep = 29.3  # time between each consecutive flows
 
-    #os.system('eval "$(ssh-agent)"')
-
-    # run 10 times
     for i in range(100):
 
         # send at rate 50 packets per second (on both s1 and s2)
