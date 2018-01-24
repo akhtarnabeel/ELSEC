@@ -37,7 +37,7 @@ if __name__ == '__main__':
 
     os.system('eval "$(ssh-agent)"')
 
-    numberOfTimes = 100
+    numberOfTimes = 1
     for i in range(numberOfTimes):
 
         if i%2 == 0:
@@ -73,19 +73,21 @@ if __name__ == '__main__':
         cmd_ = 'ssh ' + s_address + " '" + command + "'"
         proc = subprocess.Popen(cmd_, stdout=subprocess.PIPE, shell=True)
         (out, err) = proc.communicate()
-        print "program output:", out
+        #print "program output:", out
         #pingCount = out.split()[5].split('=')[1]
         pingCount = pingLogParser(out)
-        print 'pingCount:',pingCount
+        #print 'pingCount:',pingCount
 
         # count time it takes and add it to output log file
         timeTaken = float(pingCount)*0.2
         textToWrite = "Iteration:" + str(i) + ', timeTaken:' + str(timeTaken) + ' Source:S' + str((i%2)+1) + '\n'
-        print 'textToWrite:',textToWrite
+        # print 'textToWrite:',textToWrite
         file = open('attacks.log', 'a+')
         file.write(textToWrite)
         file.close()
 
+        print 'Time taken to detect attack:', str(timeTaken)
+        
         # sleep for 1 minutes before new attack
         print('waiting before next attack...')
         time.sleep(20)
