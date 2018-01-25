@@ -38,10 +38,10 @@ def runNping(host, rate, time, datalength):
 
 if __name__=='__main__':
 
-    timeForFlow = 150   # time (in seconds) to live for a flow
+    timeForFlow = 700   # time (in seconds) to live for a flow
     rateOfFlow = 20     # number of packets per second sent in a flow
     packetSize = 1400   # size of each packet for a flow
-    timeToSleep = 29.3  # time between each consecutive flows
+    timeToSleep = 19.3  # time between each consecutive flows
 
     for i in range(100):
 
