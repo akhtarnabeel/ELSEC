@@ -98,12 +98,15 @@ def main(args):
                     NFV3 = file3.read()
                     continue;
 
-            # get the last value for CPU usage
             print "** PID CONTROLLER **"
-            print "Target CPU load at VNFs:            ", T
-            print "Current CPU load at VNF1, VNF2 and VNF3:           ", NFV1.split("=")[-1], ' : ',NFV2.split("=")[-1],' : ',NFV3.split("=")[-1]
-            print "% of flows to be send to VNF2, VNF3 and VNF4:      ", X_t['VNF1'] * 100, '%', ' : ',X_t['VNF2'] * 100, '%'' : ',X_t['VNF3'] * 100, '%'
-            print "% of flows previously send to VNF2, VNF3 and VNF4:: ", prev['VNF1'] * 100, '%', ' : ',prev['VNF2'] * 100, '%', ' : ',prev['VNF3'] * 100, '%'
+            print "Target CPU load =", T, " %"
+            print "|-------------------------------------------------------------|"
+            print "|                     |  VNF1   |  VNF2   |  VNF3   |  VNF4   |"
+            print "|-------------------------------------------------------------|"
+            print "|Current CPU load (%) | ", change6str(NFV1.split("=")[-1]), " | ",change6str(NFV2.split("=")[-1])," | ",change6str(NFV3.split("=")[-1])," |         |"
+            print "|% Flows sent VNF i+1 |         | ", change6str(X_t['VNF1'] * 100), " | ",change6str(X_t['VNF2'] * 100), " | ", change6str(X_t['VNF3'] * 100)," | "
+            print "|-------------------------------------------------------------|"
+            #print "% of flows previously send to VNF2, VNF3 and VNF4:: ", prev['VNF1'] * 100, '%', ' : ',prev['VNF2'] * 100, '%', ' : ',prev['VNF3'] * 100, '%'
             print ""
 
             f_out = open("NFV_ratio_4VNF.txt",'w')
@@ -115,6 +118,13 @@ def main(args):
         NFV1 = file1.read()
         NFV2 = file2.read()
         NFV3 = file3.read()
+
+def change6str(num):
+    num = float(str(num))
+    num = "{0:.04f}".format(num)
+    num = "{0:.05}".format(num)
+    return num
+
 
 if __name__ == "__main__":
    main(sys.argv)
