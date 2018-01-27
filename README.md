@@ -12,8 +12,7 @@ As a use case, we deploy the Snort Intrusion Detection System as the NF on the G
 [Link](https://github.com/akhtarnabeel/ELSEC/blob/master/Tutorial.md) to EL-SEC Tutorial
 
 ## Video Demonstration:
-[Link](https://www.youtube.com/watch?v=lRvJ56z5XCM&feature=youtu.be) for PI controller based Elastic Management  
-[Link](https://www.youtube.com/watch?v=CAEoYa6CYIw) to webinar on Elastic Management using Control Theory
+[Link](https://www.youtube.com/watch?v=2T_d_J4AVn8) EL-SEC Elastic Management on GENI testbed
 
 ## Source Code:
 [Source code](https://github.com/akhtarnabeel/ELSEC) of our GENI implementation is available on GitHub
