@@ -435,6 +435,7 @@ We will run *Attacker.py* script to attack the system with Port Scanning attack.
 ```
 cd ~
 wget https://github.com/akhtarnabeel/ELSEC/raw/master/PortScanAttack.sh 
+chmod 777 PortScanAttack.sh 
 ```
 - Download *Attacker.py* by running following on your local machine.
 ```
