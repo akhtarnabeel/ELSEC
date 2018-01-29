@@ -431,6 +431,11 @@ python AttackAnalyzer.py -f /tmp/snortalert
 ## 6. Attack the system
 We will run *Attacker.py* script to attack the system with Port Scanning attack. You will be running this script on your local machine. The script will remotely connect with S1 or S2 and run port scanning attach from one of these nodes. Note that you need linux or unix machine to run this code. Make sure you have added GENI key to *ssh-add* as shown in **Section 2.1** in **Part 1: Design**.  
 
+- On *S1* and *S2* nodes, download following script
+```
+cd ~
+wget https://github.com/akhtarnabeel/ELSEC/raw/master/PortScanAttack.sh 
+```
 - Download *Attacker.py* by running following on your local machine.
 ```
 wget https://raw.githubusercontent.com/akhtarnabeel/ELSEC/master/Attacker.py
