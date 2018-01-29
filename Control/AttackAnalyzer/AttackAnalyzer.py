@@ -32,7 +32,7 @@ def main():
 #         print 'File to defile attacks does not exist!'
 #         return
 
-	print 'Attack Analyzer running!'
+    print 'Attack Analyzer running!'
 	
     while(True):
         try:
