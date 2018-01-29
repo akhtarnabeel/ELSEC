@@ -203,7 +203,7 @@ The RINA distributed application collects the CPU load of VNF1-VNF4, as well as 
 1. In the controller window, download the RINA controller code:
 ```
 cd ~
-wget https://github.com/akhtarnabeel/public/raw/master/NFV-GENI/Control.tar.gz
+wget https://github.com/akhtarnabeel/ELSEC/raw/master/Control.tar.gz
 tar -xvf Control.tar.gz
 ```
 
@@ -222,7 +222,6 @@ cd ~
 wget https://github.com/akhtarnabeel/ELSEC/raw/master/VNF2.tar.gz
 tar -xvf VNF2.tar.gz
 ```
-
 
 3. In a new VNF3 window, download the RINA VNF3 code.
 ```
@@ -333,7 +332,7 @@ Here the target load on VNFs is 50.0% of CPU usage, i.e. if the CPU load on a VN
 **Do not close this window; leave the PI controller running.**
 
 
-## 3. PI-based Ryu Controller
+## 3. PI/PID-based Ryu Controller
 
 Next we are going to run Ryu controller that will install OpenFlow rules to support NFV load balancing as well as handling intrusion. With this controller, the traffic shall go from a source to destination, and duplicate packets are sent to one of the IDS nodes (VNF1, VNF2, VNF3 or VNF4) for intrusion detection.
 
@@ -354,7 +353,7 @@ nano /tmp/ryu/ryu/app/nfv_4VNF.config
 3. You will see the details of this configuration file as follows. 
   - Change the values of *vnf1_interface*, *vnf2_interface*, *vnf3_interface* and *vnf4_interface* to the values that you noted down in **Section 3.3.1** in the **Design** section of this tutorial (Values of W, X, Y and Z shown in the figure below). These values will tell the controller which interfaces are connected to VNF1, VNF2, VNF3 and VNF4.  
   - Change the value of **file_path_pi** to the text file that has the PI or PID controller's output.  
-  */users/\<username\>/Control/PI_controller/NFV_ratio_4VNF.txt*  
+  */users/\<username\>/Control/PI_PID_controller/NFV_ratio_4VNF.txt*  
   Change the **\<username\>** to your user name.  
 
 <img src="https://github.com/akhtarnabeel/ELSEC/raw/master/Figures/RyuConfig.png"  height="300"/>
