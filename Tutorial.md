@@ -274,6 +274,7 @@ nano ipcVNF4.properties
 cd ~/Control/RINA
 nano ipcControl.properties
 ```
+  At the bottom of the file, again change the rina.dns.name and rina.idd.name to the IP address of the controller.
 
 6. To run the RINA application, follow these steps (make sure you installed Java as noted above):  
 
