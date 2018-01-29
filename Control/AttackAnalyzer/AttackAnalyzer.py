@@ -32,6 +32,8 @@ def main():
         print 'File to defile attacks does not exist!'
         return
 
+	print 'Attack Analyzer running!'
+	
     while(True):
         try:
 
@@ -43,7 +45,7 @@ def main():
                 if ans == 1:
                     break
                 else:
-                    print 'Snort alert file does not exists at ', inputFile, '\nChecking again...'
+                    #print 'Snort alert file does not exists at ', inputFile, '\nChecking again...'
                     time.sleep(pauseTime)
 
             snort_alert_f = open(inputFile, 'r')
