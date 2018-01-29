@@ -19,21 +19,8 @@ def main():
 
     # print the name of input file
     print inputFile
-
-    # get types of attacks and save them in array
-#     exists = os.path.isfile('attackType.config')
-#     if exists == 1:
-#         # add to array
-#         f1 = open('attackType.config', 'r')
-#         attackType = f1.read()
-#         f1.close()
-#         attackType_list = attackType.split('\n')
-#     else:
-#         print 'File to defile attacks does not exist!'
-#         return
-
     print 'Attack Analyzer running!'
-	
+
     while(True):
         try:
 
