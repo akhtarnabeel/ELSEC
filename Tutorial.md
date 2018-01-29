@@ -351,7 +351,7 @@ nano /tmp/ryu/ryu/app/nfv_4VNF.config
 ```
 
 3. You will see the details of this configuration file as follows. 
-  - Change the values of *vnf1_interface*, *vnf2_interface*, *vnf3_interface* and *vnf4_interface* to the values that you noted down in **Section 3.3.1** in the **Design** section of this tutorial (Values of W, X, Y and Z shown in the figure below). These values will tell the controller which interfaces are connected to VNF1, VNF2, VNF3 and VNF4.  
+  - Change the values of *vnf1_interface*, *vnf2_interface*, *vnf3_interface* and *vnf4_interface* to the values that you noted down in **Section 3.3.1** in the **Design** section of this tutorial (Example interface values for W, X, Y and Z are shown in the figure below). These values will tell the controller which interfaces are connected to VNF1, VNF2, VNF3 and VNF4.  
   - Change the value of **file_path_pi** to the text file that has the PI or PID controller's output.  
   */users/\<username\>/Control/PI_PID_controller/NFV_ratio_4VNF.txt*  
   Change the **\<username\>** to your user name.  
