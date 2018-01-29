@@ -42,6 +42,7 @@ def main():
             # read the file and if there is anything, add to alert.txt file
             attacker_list = []
             alerts = snort_alert.split('\n')
+            attackType_list = ['PORTSCAN']
 
             j = 0
             while j < len(attackType_list):
