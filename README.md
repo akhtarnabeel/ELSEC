@@ -20,3 +20,16 @@ As a use case, we deploy the Snort Intrusion Detection System as the NF on the G
 ## Experiment Traces:
 [Link](https://github.com/akhtarnabeel/ELSEC/tree/master/ExperimentalTraces) to experiment traces.
 
+## Publications:
+
+- Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
+  **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
+  *IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), 2018, Honolulu, Hawaii, USA, April 2018* <br>
+    [\[PDF\]](../papers/ELSEC.pdf)[\[Bibtex\]](../papers/bib/ELSEC.txt)[\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
+
+- Nabeel Akhtar, Ibrahim Matta and Yuefeng Wang <br>
+  **Managing NFV using SDN and Control Theory** <br>
+  *IEEE/IFIP NOMS International Workshop on Management of the Future Internet (ManFI) 2016, Istanbul, Turkey, April 2016* <br>
+  [\[PDF\]](../papers/NOMS2016.pdf) [\[Bibtex\]](/papers/bib/NOMS2016.txt) 
+  
+
